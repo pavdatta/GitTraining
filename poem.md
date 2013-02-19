@@ -9,3 +9,5 @@ Adding some more changes...adding more content.
 Adding a newline to the textfile...I just saved the changes, "added" to the staging area, BUT now it's modified again. So it's now in the staging area and the working area.
 
 We're just truncating this file after renaming the file.
+
+We're making even more changes...yay!
